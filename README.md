@@ -11,3 +11,8 @@
 ## How do I run this?
 * Simply add the apk to your phone and open the app.
 * It only works for the circuit mentioned above.
+
+
+## Common Problems
+* I can't see the AR
+  * The AR only shows up if the program can recognize both the Pi and the sensor in the same camera screen. Try positioning them like I have it in the video in the link above for best results.

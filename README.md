@@ -16,3 +16,6 @@
 ## Common Problems
 * I can't see the AR
   * The AR only shows up if the program can recognize both the Pi and the sensor in the same camera screen. Try positioning them like I have it in the video in the link above for best results.
+  
+## What about other platforms?
+Unity allows for exports to IOS, Windows, Linux, OpenGL, and more. However these require further work on the project. At the moment, only Android is supported.
